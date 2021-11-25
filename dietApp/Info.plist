@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>このアプリでは画像を利用します。</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>このアプリでは歩数の情報を利用します。</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>このアプリでは歩数の情報を利用します。</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
